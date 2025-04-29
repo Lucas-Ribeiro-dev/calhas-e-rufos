@@ -63,7 +63,7 @@ li a:hover {
   width: 100%;
 }
 .banner-1 {
-  background-image: url('/recursos/imagens/fotos/banner1.jpg');
+  background-image: url('recursos/imagens/fotos/banner1.jpg');
     background-size: cover;
     background-position: center;
   height: 100%;
@@ -181,7 +181,7 @@ li a:hover {
   gap: 10px;
 }
 .item-1 {
-  background-image: url('/recursos/imagens/fotos/item-1.jpg');
+  background-image: url('recursos/imagens/fotos/item-1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -189,7 +189,7 @@ li a:hover {
   grid-row: 1 / 4;
 }
 .item-2 {
-  background-image: url('/recursos/imagens/fotos/item-2.jpg');
+  background-image: url('recursos/imagens/fotos/item-2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@ li a:hover {
   grid-row: 1 / 4;
 }
 .item-3 {
-  background-image: url('/recursos/imagens/fotos/item-3.jpg');
+  background-image: url('recursos/imagens/fotos/item-3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -205,7 +205,7 @@ li a:hover {
   grid-row: 4 / 6;
 }
 .item-4 {
-  background-image: url('/recursos/imagens/fotos/item-4.jpg');
+  background-image: url('recursos/imagens/fotos/item-4.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -213,7 +213,7 @@ li a:hover {
   grid-row: 4 / 6;
 }
 .item-5 {
-  background-image: url('/recursos/imagens/fotos/item-5.jpg');
+  background-image: url('recursos/imagens/fotos/item-5.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
