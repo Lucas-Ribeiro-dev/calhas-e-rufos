@@ -1,11 +1,8 @@
 :root {
   /* Cores principais (identidade visual) */
   --primary-blue: #004B8D;
-  /* Azul escuro da logo */
   --secondary-blue: #0074D9;
-  /* Azul claro de destaque */
   --accent-blue: #00AEEF;
-  /* Azul vibrante para botões/ações */
 
   /* Cores neutras */
   --white: #ffffff;

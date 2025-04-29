@@ -1,8 +1,8 @@
 :root {
   /* Cores principais (identidade visual) */
-  --primary-blue: #004B8D;    /* Azul escuro da logo */
-  --secondary-blue: #0074D9;  /* Azul claro de destaque */
-  --accent-blue: #00AEEF;     /* Azul vibrante para botões/ações */
+  --primary-blue: #004B8D;    
+  --secondary-blue: #0074D9;  
+  --accent-blue: #00AEEF;
   
   /* Cores neutras */
   --white: #ffffff;
@@ -24,7 +24,6 @@ header {
   background-color: var(--medium-gray);
   padding: 20px;
   text-align: center;
-
 }
 ul {
   list-style: none;
