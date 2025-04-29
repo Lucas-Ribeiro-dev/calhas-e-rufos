@@ -71,15 +71,17 @@ li a:hover {
   max-width: 100%;
   padding: 20px;
   box-sizing: border-box;
-  
+  display: flex;
   justify-content: center;
-  justify-items: center;
   align-items: center;
   text-align: center;
 }
 .banner-text {
   color: var(--white);
   font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 }
 
 /* Todos os Serviços */
@@ -299,7 +301,7 @@ li a:hover {
   text-align: center;
 }
 #contact-form h2, #contact-form h3 {
-  color: var(--medium-gray);
+  color: var(--light-gray);
   margin-top: 0;
 }
 #contact-form h2 {
