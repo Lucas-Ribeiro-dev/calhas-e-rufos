@@ -82,6 +82,7 @@ li a:hover {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  box-sizing: border-box;
 }
 
 /* Todos os Serviços */
@@ -245,6 +246,8 @@ li a:hover {
   font-size: 2rem;
   margin-bottom: 3rem;
   margin-top: 0;
+  box-sizing: border-box;
+  text-align: center;
 }
 #cities ul {
   display: inline-block;

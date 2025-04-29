@@ -187,3 +187,28 @@
         font-size: 0.7rem;
     }
 }
+
+@media only screen and (max-width: 600px) {
+    #trust h2 {
+        text-align: center;
+    }
+    #cities {
+        padding: 40px 10px;
+    }
+    .cities-text {
+        box-sizing: border-box;
+    }
+    .cities-text h2 {
+        text-wrap: wrap;
+    }
+    .banner-text {
+        box-sizing: border-box;
+        width: 100%;
+        gap: 0;
+        font-size: 1.3rem;
+    }
+    .banner-text p {
+        margin: 0;
+    }
+
+}
