@@ -157,6 +157,8 @@ li a:hover {
 }
 .trust-container img {
   margin-bottom: 5%;
+  max-width: 110px;
+  height: auto;
 }
 .trust-container figcaption {
   font-size: 1.5rem;
