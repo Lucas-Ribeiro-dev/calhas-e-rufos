@@ -39,7 +39,7 @@ body {
 }
 
 .bg-1 {
-  background-image: url(/recursos/imagens/page-asset/page-bg-1.png);
+  background-image: url('../recursos/imagens/page-elements/page-bg-1.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,7 +47,7 @@ body {
 }
 
 .bg-2 {
-  background-image: url(/recursos/imagens/page-asset/page-bg-2.png);
+  background-image: url('../recursos/imagens/page-elements/page-bg-2.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
